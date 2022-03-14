@@ -1,3 +1,3 @@
 # k8-deployment-template
 
-Example template of a Azure Devops cluster deployment. 
+Basic example template of an Azure Devops cluster deployment using the default namespace and an environment named 'dev'.
